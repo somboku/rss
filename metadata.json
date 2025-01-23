@@ -1,0 +1,9 @@
+{
+    "description": "Add rssFeeds to taskbar",
+    "uuid": "myRSS@somboku",
+    "name": "RSS Display",
+    "version": "0.1",
+    "max-instances": 1,
+    "multiversion": true,
+    "author": "somboku"
+}
